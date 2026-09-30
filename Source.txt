@@ -1,0 +1,3 @@
+Hello World!
+I am learning Python.
+This is a Error and File handling program.

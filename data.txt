@@ -1,0 +1,4 @@
+with ka faida
+with open() statement ka sabse bada faida yeh hai ke file ka kaam complete hone ke baad Python automatically file ko close kar deta hai.
+
+Isliye humein manually file.close() likhne ki zaroorat nahi hoti.
